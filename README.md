@@ -17,11 +17,13 @@ Use John the Ripper to crack the hashes:
 Password Cracking with John the Ripper
 
 ## OUTPUT:
-- Create an txt file 
-![image](https://github.com/user-attachments/assets/e7328b13-1938-444d-bb77-6be3377f430e)
+- Create an txt file
+![image](https://github.com/user-attachments/assets/b6978c75-6128-4878-b569-da2fdeebef1f)
+
 
 -  Create a Password-Protected ZIP File 
-![image](https://github.com/user-attachments/assets/46f87c52-2b2c-48a3-916f-aaaa53cc687d)
+![image](https://github.com/user-attachments/assets/95bc302b-3926-4faf-bd4a-5a3633a4ca17)
+
 
 ### OR
 ```
@@ -29,20 +31,21 @@ zip -e secret.zip file.txt
 ```
 
 - Open John-The-Ripper Tool
-- 
-![image](https://github.com/user-attachments/assets/fae39a60-9f20-474e-b7a1-9132d5d1d88a)
+![image](https://github.com/user-attachments/assets/f99e8250-9e01-44f1-8dfc-76429d89e88f)
 
-![image](https://github.com/user-attachments/assets/333966f0-b113-4cca-b707-9f2d1c20a572)
+![image](https://github.com/user-attachments/assets/842af5b7-2787-4679-ba81-3f164cba9947)
 
-- Generate Hash Using zip2john
- 
-![Screenshot 2025-04-21 200236](https://github.com/user-attachments/assets/2a9a53f8-f51e-462c-979e-6d346b720280)
+  
+- Generate Hash Using zip2john 
+![image](https://github.com/user-attachments/assets/d874fc2f-d938-42ae-9124-a4f913f62162)
+
 
 - cat hash.txt
 
-![image](https://github.com/user-attachments/assets/18aa5639-556a-4a63-b983-7e6d674aac6b)
+![image](https://github.com/user-attachments/assets/d4716ece-53ba-425e-96b1-6a0f6d46c5cb)
 
-![image](https://github.com/user-attachments/assets/10c4fe4f-e04d-4d44-829d-036cf0d7f34f)
+
+![image](https://github.com/user-attachments/assets/41cd3e26-07c0-4d45-8e88-320a821d3c49)
 
 
 ## RESULT:
